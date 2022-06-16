@@ -1,6 +1,7 @@
 """
+Exercise #1
 Create a program that takes your year of birth
 and gives you your maximium heart rate.
-max bpm is 220 minus your age
+Max heart rate is 220 minus your age.
 """
 

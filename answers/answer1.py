@@ -1,4 +1,7 @@
-# exercise 1
+"""
+Answer #1
+"""
+
 year = int(input("Enter your year of birth: "))
 year = 2022-year
 max_bpm = 220-year
