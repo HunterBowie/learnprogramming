@@ -1,0 +1,2 @@
+Lesson 1 -> Variables, Data types, Operations, Built in functions
+Lesson 2 -> Conditionals
